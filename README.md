@@ -1,31 +1,7 @@
-## Welcome Raymond-1227's GitHub Page STUFF!
+## Read Me!
 
-You can see something boring that I made in this page with MARKDOWN!!
+Okay so, why did you read me? THERE IS NOTHING HERE THO.
 
-### About Me
+### Where are the info?
 
-Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I like to play Mineceaft, because it is fun tho. I have made 2 Minecraft servers, hope you will enjoy them!
-
-### Computer Specs
-
-***Computer***: iMac 27 Mid 2011
-
-***CPU***: Intel® Core™ i5-2400 CPU @ 3.10 GHz
-
-***RAM***: 4 GB 1333 MHz DDR3
-
-***Storage***: HDD 1TB + SSD 256GB (I just installed the SSD because I don't have enough storage in my computer)
-
-***Graphic Card***: AMD Radeon HD 6970M 1024 MB
-
-***System***: macOS High Sierra
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Donate Me :P
-
-Since I don't have a bank, if you want to donate me, you can buy me Hypixel Ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is Raymond_TW.
-
-### Support or Contact
-
-If you are needing to contact me, please email to raymond.h1227@gmail.com, thanks :D
+Okay, I have told you there is nothing here, stuffs should belong [here](https://raymond-1227.github.io/Bruh)
