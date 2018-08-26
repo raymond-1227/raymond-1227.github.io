@@ -1,4 +1,4 @@
-## Welcome Raymond-1227's GitHub Page STUFF!
+## Welcome to Raymond's Hub!
 
 You can see something boring that I made in this page with MARKDOWN!!
 
