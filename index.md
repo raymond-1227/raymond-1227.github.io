@@ -32,6 +32,12 @@ Heres my Minecraft Servers: (All of them are in maintenance)
 
 Since I don't have a bank, if you want to donate me, you can buy me Hypixel Ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is Raymond_TW.
 
+### Links
+
+[My Minecraft Server Site] (https://idkcraftmc.tk)
+
 ### Support or Contact
 
-If you are needing to contact me, please email to raymond.h1227@gmail.com, thanks :D
+Discord: Raymond_1227#8703
+
+Twitter: @Raymond_1227
