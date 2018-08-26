@@ -9,10 +9,15 @@ Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I lik
 ### Computer Specs
 
 ***Computer***: iMac 27 Mid 2011
+
 ***CPU***: Intel® Core™ i5-2400 CPU @ 3.10 GHz
+
 ***RAM***: 4 GB 1333 MHz DDR3
+
 ***Storage***: HDD 1TB + SSD 256GB (I just installed the SSD because I don't have enough storage in my computer)
+
 ***Graphic Card***: AMD Radeon HD 6970M 1024 MB
+
 ***System***: macOS High Sierra
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
