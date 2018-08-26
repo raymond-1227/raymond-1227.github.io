@@ -20,7 +20,13 @@ Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I lik
 
 ***System***: macOS High Sierra
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### My Minecraft Servers
+
+Heres my Minecraft Servers: (All of them are in maintenance)
+
+**OkayPlsPvP** (OkayPlsPvP.minehut.gg)
+
+**ProRP** (ProRP.minehut.gg) 
 
 ### Donate Me :P
 
