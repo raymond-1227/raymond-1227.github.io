@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome Raymond-1227's GitHub Page STUFF!
 
-You can use the [editor on GitHub](https://github.com/Raymond-1227/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can see something boring that I made in this page with MARKDOWN!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I like to play Mineceaft, because it is fun tho. I have made 2 Minecraft servers, hope you will enjoy them!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Computer Specs
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+***Computer***: iMac 27 Mid 2011
+***CPU***: Intel® Core™ i5-2400 CPU @ 3.10 GHz
+***RAM***: 4 GB 1333 MHz DDR3
+***Storage***: HDD 1TB + SSD 256GB (I just installed the SSD because I don't have enough storage in my computer)
+***Graphic Card***: AMD Radeon HD 6970M 1024 MB
+***System***: macOS High Sierra
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Donate Me :P
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Raymond-1227/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Since I don't have a bank, if you want to donate me, you can buy me Hypixel Ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is Raymond_TW.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are needing to contact me, please email to raymond.h1227@gmail.com, thanks :D
