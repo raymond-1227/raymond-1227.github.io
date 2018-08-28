@@ -34,7 +34,7 @@ Since I don't have a bank, if you want to donate me, you can buy me Hypixel Rank
 
 ### Links
 
-[My Minecraft Server Site] (https://idkcraftmc.tk)
+[My Minecraft Server Site](https://idkcraftmc.tk)
 
 ### Support or Contact
 
