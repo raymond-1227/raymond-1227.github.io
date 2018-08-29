@@ -41,3 +41,7 @@ Since I don't have a bank, if you want to donate me, you can buy me Hypixel Rank
 Discord: Raymond_1227#8703
 
 Twitter: @Raymond_1227
+
+### Check List
+
+-[x] lol
