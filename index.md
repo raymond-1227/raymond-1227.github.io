@@ -42,6 +42,13 @@ Discord: Raymond_1227#8703
 
 Twitter: @Raymond_1227
 
-### Check List
+### STUFF
 
--[x] lol
+Features | Your Server | Hypixel
+------------- | ------------- | -------------
+Slots | 10 | 62000
+Forums | Forums.gg | XenForo
+Host | Minehut (Free) | SingleHop (Paid)
+Minigames | 1 | 40+
+Owner | Raymond_TW | hypixel
+Store | Buycraft (Not great) | Buycraft (Great)
