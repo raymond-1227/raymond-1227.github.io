@@ -44,6 +44,8 @@ Twitter: @Raymond_1227
 
 ### Skeppy Language
 
-Umm... You have been a part of a fan with Skeppy, but no idea what he is say about? LOL!
+Umm... Maybe you have been a part of a fan with Skeppy, but no idea what he is say about? LOL!
 
 **IDOT** = **Idiot**
+
+**f** = (LOL NO IDEA XDD)
