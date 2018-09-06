@@ -42,18 +42,8 @@ Discord: Raymond_1227#8703
 
 Twitter: @Raymond_1227
 
-### STUFF
+### Skeppy Language
 
-Features | My Server | Hypixel
-------------- | ------------- | -------------
-Slots | 10 | 62000
-Forums | Forums.gg | XenForo
-Host | Minehut (Free) | SingleHop (Paid)
-Minigames | 1 | 40+
-Owner | Raymond_TW | hypixel
-Store | Buycraft (Not great) | Buycraft (Great)
-Developer | Raymond_TW | 20+
-Populararity | Nope | YES
-Money Earned | $0 | $1000+
+Umm... You have been a part of a fan with Skeppy, but no idea what he is say about? LOL!
 
-lol Hypixel Network is always better than my server!
+**IDOT** = **Idiot**
