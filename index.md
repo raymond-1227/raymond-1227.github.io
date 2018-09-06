@@ -1,4 +1,4 @@
-## Welcome to Raymond's Hub!
+## Hi User! You Found MEE!
 
 You can see something boring that I made in this page with MARKDOWN!!
 
