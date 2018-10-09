@@ -1,12 +1,12 @@
-## Hi User! You Found MEE!
+## Hey man, you just found my page! YAY!
 
-You can see something boring that I made in this page with MARKDOWN!!
+You could see some boring stuff that I made with **MARKDOWN**!
 
 ### About Me
 
-Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I like to play Mineceaft, because it is fun tho. I have made 2 Minecraft servers, hope you will enjoy them!
+Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I like to play Mineceaft. I have made 2 Minecraft servers, hope you will enjoy them! I'm not a web-developer, but I had no idea why I like CloudFlare CyberSecurity!
 
-### Computer Specs
+### Computer Specs (It's very old but I still use it :P)
 
 ***Computer***: iMac 27 Mid 2011
 
@@ -30,22 +30,16 @@ Heres my Minecraft Servers: (All of them are in maintenance)
 
 ### Donate Me :P
 
-Since I don't have a bank, if you want to donate me, you can buy me Hypixel Ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is Raymond_TW.
+Since I don't have a bank, if you want to donate me, you can buy me Hypixel Ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is *SysWOW64*.
 
 ### Links
 
 [My Minecraft Server Site](https://idkcraftmc.tk)
 
-### Support or Contact
+[My Minecraft Server Forums](https://idkcraftmc.createmybb4.com)
 
-Discord: Raymond_1227#8703
+### Support Or Contact Meh
 
-Twitter: @Raymond_1227
+***Discord***: Raymond_1227#8703
 
-### Skeppy Language
-
-Umm... Maybe you have been a part of a fan with Skeppy, but no idea what he is say about? LOL!
-
-**IDOT** = **Idiot**
-
-**f** = (LOL NO IDEA XDD)
+***Twitter***: @Raymond_1227
