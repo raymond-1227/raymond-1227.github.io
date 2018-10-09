@@ -1,8 +1,3 @@
----
-title: Raymond's Website
-layout: post
----
-
 ## Hey man, you just found my page! YAY!
 
 You could see some boring stuff that I made with **MARKDOWN**!
