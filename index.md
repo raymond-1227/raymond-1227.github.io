@@ -12,9 +12,9 @@ Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I lik
 
 ***CPU***: Intel® Core™ i5-2400 CPU @ 3.10 GHz
 
-***RAM***: 4 GB 1333 MHz DDR3
+***RAM***: 12 GB 1333 MHz DDR3
 
-***Storage***: HDD 1TB + SSD 256GB (I just installed the SSD because I don't have enough storage in my computer)
+***Storage***: HDD 1TB + SSD 256GB (Installed the SSD because I don't have enough storage in my computer)
 
 ***Graphic Card***: AMD Radeon HD 6970M 1024 MB
 
