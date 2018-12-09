@@ -30,7 +30,7 @@ Heres my Minecraft Servers: (All of them are in maintenance)
 
 ### Donate Me :P
 
-Since I don't have a bank, if you want to donate me, you can buy me Hypixel Ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is *SysWOW64*.
+Since I don't have a bank, if you want to donate me, you can buy me Hypixel Ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is *Raymond_TW*.
 
 ### Links
 
