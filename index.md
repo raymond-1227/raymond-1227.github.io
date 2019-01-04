@@ -38,8 +38,10 @@ Since I don't have a bank, if you want to donate me, you can buy me Hypixel rank
 
 [My Minecraft Server Forums](https://yourtoxic.forums.gg)
 
+[My Hypixel Forum Info](https://hypixel.net/members/raymond_TW.1811695)
+
 ### Support or Contact Me
 
-***Discord***: Raymond_1227#8703
+***Discord***: realRaymond#0001
 
-***Twitter***: @Raymond_1227
+***Twitter***: Raymond_1227
