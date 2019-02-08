@@ -4,7 +4,7 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 ### About Me
 
-Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I like to play Mineceaft. I have made 2 Minecraft servers, hope you will enjoy them! I'm not a web-developer, but I had no idea why I like CloudFlare CyberSecurity!
+Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I like to play Mineceaft. I have made 2 Minecraft servers, hope you will enjoy them! I'm not a web-developer, but I had no idea why I like CloudFlare CyberSecurity! (lol)
 
 ### Computer Specs (It's very old but I still use it :P)
 
@@ -42,6 +42,6 @@ Since I don't have a bank, if you want to donate me, you can buy me Hypixel rank
 
 ### Support or Contact Me
 
-***Discord***: realRaymond#0001
+***Discord***: Raymond#1725
 
-***Twitter***: Raymond_1227
+***Twitter***: RaymondTheKid
