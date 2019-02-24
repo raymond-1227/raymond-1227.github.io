@@ -1,4 +1,4 @@
-## Welcome to Raymond's ***EPIC*** Website!
+## Welcome to Raymond's Website!
 
 You could see some boring stuff that I made with **MARKDOWN**!
 
@@ -44,4 +44,6 @@ Since I don't have a bank, if you want to donate me, you can buy me Hypixel rank
 
 ***Discord***: Raymond#1725
 
-***Twitter***: RaymondTheKid
+***Twitter***: [RaymondTheKid](https://twitter.com/raymond_1227)
+
+***YouTube***: [Raymond Hsu](https://youtube.com/raymondhsu)
