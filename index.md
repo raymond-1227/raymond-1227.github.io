@@ -44,6 +44,6 @@ Since I don't have a bank, if you want to donate me, you can buy me Hypixel rank
 
 **Discord**: Raymond#1725
 
-**Twitter**: [RaymondTheKid](https://twitter.com/raymond_1227)
+**Twitter**: [RaymondTheKid](https://twitter.com/RaymondTheKid)
 
 **YouTube**: [Raymond Hsu](https://youtube.com/raymondhsu)
