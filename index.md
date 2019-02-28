@@ -4,29 +4,27 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 ### About Me
 
-Hello, I'm Raymond. I'm a 11 and a half years old kid who lived in Taiwan. I like to play Mineceaft. I have made 2 Minecraft servers, hope you will enjoy them! I'm not a web-developer, but I had no idea why I like CloudFlare CyberSecurity! (lol)
+Hello, I'm Raymond. I'm a 12 year-old kid who lived in Taiwan. I like to play Mineceaft. I have made a Minecraft server, hope you will enjoy them! I'm not a web-developer, I'd like to 
 
 ### Computer Specs (It's very old but I still use it :P)
 
-***Computer***: iMac 27 Mid 2011
+**Computer**: iMac 27 Mid 2011
 
-***CPU***: Intel® Core™ i5-2400 CPU @ 3.10 GHz
+**CPU**: Intel® Core™ i5-2400 CPU @ 3.10 GHz
 
-***RAM***: 12 GB 1333 MHz DDR3 (2GB x2 + 4GB x2)
+**RAM**: 12 GB 1333 MHz DDR3 (2GB x2 + 4GB x2)
 
-***Storage***: HDD 1TB + SSD 256GB
+**Storage**: HDD 1TB + SSD 256GB
 
-***Graphic Card***: AMD Radeon HD 6970M 1024 MB VRAM
+**Graphic Card**: AMD Radeon HD 6970M 1024 MB VRAM
 
-***System***: macOS High Sierra
+**System**: macOS High Sierra 10.13
 
 ### My Minecraft Servers
 
-Heres my Minecraft Servers: (All of them are in maintenance)
+Here's my Minecraft Server: (In maintenance)
 
-**OkayPlsPvP** (OkayPlsPvP.minehut.gg)
-
-**ProRP** (ProRP.minehut.gg) 
+**YourToxic** (YourToxic.minehut.gg)
 
 ### Donate Me
 
