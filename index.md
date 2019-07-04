@@ -4,7 +4,7 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 ### About Me
 
-Hello, I'm Raymond. I'm a 12 year-old kid who lived in Taiwan. I like to play Mineceaft. I have made a Minecraft server, hope you will enjoy them! I'm not a web-developer, I'd like to 
+Hello, I'm Raymond. I'm a 12 year-old kid who lived in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm not a web-developer, I'd like to 
 
 ### Computer Specs (It's very old but I still use it :P)
 
@@ -26,15 +26,15 @@ Here's my Minecraft Server: (In maintenance)
 
 **YourToxic** (YourToxic.minehut.gg)
 
+**RailSim** (RailSim.minehut.gg)
+
 ### Donate Me
 
-Since I don't have a bank, if you want to donate me, you can buy me Hypixel ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is *Raymond_TW*.
+Since I don't have a bank, if you want to donate me, you can buy me Hypixel ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is *skeppylol*.
 
 ### Links
 
 [My Minecraft Server Site](https://yourtoxic.tk)
-
-[My Minecraft Server Forums](https://yourtoxic.forums.gg)
 
 [My Hypixel Forum Info](https://hypixel.net/members/raymond_TW.1811695)
 
@@ -42,6 +42,6 @@ Since I don't have a bank, if you want to donate me, you can buy me Hypixel rank
 
 **Discord**: Raymond#1725
 
-**Twitter**: [RaymondTheKid](https://twitter.com/RaymondTheKid)
+**Twitter**: [RaymondTheIdot](https://twitter.com/RaymondTheIdot)
 
-**YouTube**: [Raymond Hsu](https://youtube.com/raymondhsu)
+**YouTube**: [Raymond Hsu](https://youtube.com/RaymondHsu)
