@@ -1,6 +1,6 @@
 ## Read Me!
 
-Okay so, why did you read me? THERE IS NOTHING HERE THO.
+Okay so, why did you read me? THERE IS NOTHING HERE.
 
 ### Where are the info?
 
