@@ -4,7 +4,7 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 ### About Me
 
-Hello, I'm Raymond. I'm a 12 year-old kid who lived in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm not a web-developer, but I still like to develop websites using WordPress.
+Hello, I'm Raymond. I'm a 12 year-old kid who lived in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm a starter of Discord.js bot developer, since I always wanted a bot so I coded one.
 
 ### Computer Specs (It's very old but I still use it :P)
 
@@ -24,7 +24,7 @@ Hello, I'm Raymond. I'm a 12 year-old kid who lived in Taiwan. I like to play Mi
 
 Here's my Minecraft Server: (In maintenance)
 
-**YourToxic** (YourToxic.minehut.gg)
+**IdotEsc** (IdotEsc.minehut.gg)
 
 **RailSim** (RailSim.minehut.gg)
 
