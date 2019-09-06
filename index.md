@@ -6,9 +6,9 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 Hello, I'm Raymond. I'm a 12 year-old kid who lived in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm a starter of Discord.js bot developer, since I always wanted a bot so I coded one.
 
-### Computer Specs (It's very old but I still use it :P)
+### Computer Specs (Yeah it's super old but I still use it :P)
 
-**Computer**: iMac 27 Mid 2011
+**Computer Series**: iMac 27 Mid 2011
 
 **CPU**: Intel® Core™ i5-2400 CPU @ 3.10 GHz
 
@@ -16,9 +16,9 @@ Hello, I'm Raymond. I'm a 12 year-old kid who lived in Taiwan. I like to play Mi
 
 **Storage**: HDD 1TB + SSD 256GB
 
-**Graphic Card**: AMD Radeon HD 6970M 1024 MB VRAM
+**Graphics Card**: AMD Radeon HD 6970M 1024 MB
 
-**System**: macOS High Sierra 10.13
+**Operating System**: macOS High Sierra 10.13.6
 
 ### My Minecraft Servers
 
