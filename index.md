@@ -8,7 +8,7 @@ Hello, I'm Raymond. I'm a 12 year-old kid who live in Taiwan. I like to play Min
 
 ### Computer Specs (Yeah it's super old but I still use it :P)
 
-**Computer Series**: iMac 27 Mid 2011
+**Computer Series**: iMac (27-inch, Mid 2011)
 
 **CPU**: Intel® Core™ i5-2400 CPU @ 3.10 GHz
 
