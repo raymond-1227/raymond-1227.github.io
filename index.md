@@ -4,7 +4,7 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 ### About Me
 
-Hello, I'm Raymond. I'm a 12 year-old kid who live in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm also a starter of Discord.js bot developer, since I always wanted a bot so I coded one.
+Hello, I'm Raymond. I'm a 12 year-old kid who live in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm also a starter of Discord.js bot developer, since I always wanted a custom bot so I coded one.
 
 ### Computer Specs (Yeah it's super old but I still use it :P)
 
@@ -35,6 +35,8 @@ Here's my Minecraft Server: (In maintenance)
 Since I don't really have a bank, if you want to donate me, you can buy me Hypixel ranks at [Hypixel Store](https://store.hypixel.net), my Minecraft IGN is *skeppylol*.
 
 ### Links
+
+[My Discord Bot Source Code](https://github.com/raymond-1227/hackerman14)
 
 [My Minecraft Server Site](https://yourtoxic.tk)
 
