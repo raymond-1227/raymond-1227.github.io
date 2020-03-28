@@ -4,9 +4,11 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 ### About Me
 
-Hello, I'm Raymond. I'm a <div>I'm <script>
-document.write((new Date() - new Date('2006-12-27')) / 1000 / 60 / 60 / 24 / 365);
-</script></div> year-old kid who live in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm also a starter of Discord.js bot developer, since I always wanted a custom bot so I coded one.
+Hello, I'm Raymond. I'm a <script>
+        document.write(
+          (Math.floor(new Date() - new Date("1980-03-27")) / 1000 / 60 / 60 / 24 / 365)
+        );
+      </script> year-old kid who live in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm also a starter of Discord.js bot developer, since I always wanted a custom bot so I coded one. It's now a bot for everyone to play with!
 
 ### Computer Specs (Yeah it's super old but I still use it :P)
 
@@ -38,16 +40,14 @@ Since I don't really have a bank, if you want to donate me, you can gift me Disc
 
 ### Links
 
-[My Discord Bot Source Code](https://github.com/raymond-1227/hackerman14)
+[My Discord Bot Source Code](https://hackerman14.tk)
 
-[My Minecraft Server Site](https://yourtoxic.tk)
-
-[My Hypixel Forum Info](https://hypixel.net/members/raymond_TW.1811695)
+[My Hypixel Forum Info](https://hypixel.net/members/dnomyaR.1811695)
 
 ### Support or Contact Me
 
-**Discord**: Raymond#9999
+**Discord**: Raymond#9533
 
-**Twitter**: [RaymondTheIdot](https://twitter.com/RaymondTheIdot)
+**Twitter**: [RaymondTheIdot](https://twitter.com/RaymondTheOof)
 
 **YouTube**: [Raymond Hsu](https://youtube.com/RaymondHsu)
