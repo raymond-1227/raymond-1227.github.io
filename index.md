@@ -44,7 +44,9 @@ Since I don't really have a bank, if you want to donate me, you can gift me Disc
 
 ### Links
 
-[My Discord Bot Source Code](https://hackerman14.tk)
+[My Discord Bot Source Code](https://github.com/hackerman14)
+
+[My Discord Bot Website](https://hackerman14.tk)
 
 [My Hypixel Forum Info](https://hypixel.net/members/dnomyaR.1811695)
 
