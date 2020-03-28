@@ -4,7 +4,9 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 ### About Me
 
-Hello, I'm Raymond. I'm a 13 year-old kid who live in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm also a starter of Discord.js bot developer, since I always wanted a custom bot so I coded one.
+Hello, I'm Raymond. I'm a <div>I'm <script>
+document.write((new Date() - new Date('2006-12-27')) / 1000 / 60 / 60 / 24 / 365);
+</script></div> year-old kid who live in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm also a starter of Discord.js bot developer, since I always wanted a custom bot so I coded one.
 
 ### Computer Specs (Yeah it's super old but I still use it :P)
 
