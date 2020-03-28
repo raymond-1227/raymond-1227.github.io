@@ -6,9 +6,9 @@ You could see some boring stuff that I made with **MARKDOWN**!
 
 Hello, I'm Raymond. I'm a <script>
         document.write(
-          (Math.floor(new Date() - new Date("1980-03-27")) / 1000 / 60 / 60 / 24 / 365)
+          Math.floor(((new Date() - new Date("1980-03-27")) / 1000 / 60 / 60 / 24 / 365))
         );
-      </script> year-old kid who live in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm also a starter of Discord.js bot developer, since I always wanted a custom bot so I coded one. It's now a bot for everyone to play with!
+</script> year-old kid who live in Taiwan. I like to play Mineceaft and Roblox. I have made a Minecraft server, hope you will enjoy them! I'm also a starter of Discord.js bot developer, since I always wanted a custom bot so I coded one. It's now a bot for everyone to play with!
 
 ### Computer Specs (Yeah it's super old but I still use it :P)
 
