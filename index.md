@@ -1,6 +1,10 @@
-## Welcome to Raymond's Website!
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+
+## Raymond's Site
 
 You could see some boring stuff that I made with **MARKDOWN**!
+
+---
 
 ### About Me
 
