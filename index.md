@@ -52,7 +52,7 @@ Since I don't really have a bank, if you want to donate me, you can gift me Disc
 
 ### Support or Contact Me
 
-**Discord**: Raymond#9533
+**Discord**: Raymond#2829
 
 **Twitter**: [RaymondTheIdot](https://twitter.com/RaymondTheOof)
 
