@@ -8,6 +8,8 @@ I found out that my website seemed not working in GitHub, instead of it I hosted
 
 ## Versions
 
-**v1**: GitHub Pages with Jekyll Templates
+**v1**: Jekyll Templates, based on GitHub Pages and it's only a page with useless informations.
 
-**v2**: GitLab Pages with VuePress Documentation
+**v2**: VuePress Documentation, based on GitLab Pages, but with a lot of informations.
+
+**v3**: Brizy, simplified the v2 by moving all project READMEs back to its own repository, it's only a page too.
