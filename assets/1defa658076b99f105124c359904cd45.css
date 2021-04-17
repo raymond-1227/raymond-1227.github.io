@@ -2011,6 +2011,8 @@ input.brz-mm-check {
   line-height: 20px;
   font-size: 13px;
   padding: 12px 20px; }
+  .brz .brz-menu .brz-mm-navbar__title:focus, .brz .brz-menu .brz-mm-navbar__title:active {
+    outline: none; }
 
 .brz .brz-menu--has-dropdown.brz-mm-menu .brz-mm-navbar {
   padding: 0; }
