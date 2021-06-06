@@ -15,6 +15,6 @@ I'll be starting to do the transition between v2 and v3. While I'm moving on to 
 
 ## About v2
 
-I found out that my website seemed not working in GitHub, instead of it I hosted on GitLab with the help by [@AdminRAT](https://github.com/AdminRAT).
+After finding out that my website isn't working on GitHub, instead of it I hosted on GitLab with the help by [@AdminRAT](https://github.com/AdminRAT).
 
 **v2 Project Link**: [raymond-1227.gitlab.io](https://gitlab.com/raymond-1227/raymond-1227.gitlab.io)
