@@ -10,7 +10,7 @@ I'll be starting to do the transition between v2 and v3. While I'm moving on to 
 
 **v2**: VuePress Documentation, based on GitLab Pages, but with a lot of informations.
 
-**v3**: Brizy, simplified the v2 by moving all project READMEs back to its own repository, it's only a page too.
+**v3**: Brizy, simplified the v2 by moving all project READMEs back to its own repository, and now it's only a single about page too.
 
 
 ## About v2
