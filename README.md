@@ -1,6 +1,6 @@
 # Raymond's Site
 
-I'll be starting to do the transition between v2 and v3. While I'm moving on to v3, the v2 edition will stay alive until some further ideas.
+Ah v3 website is here! But well v2 website stays on and I might update sometimes.
 
 ---
 
