@@ -10155,6 +10155,7 @@ body.brz::before, body.brz::after {
 .brz .brz-menu--has-dropdown .brz-mm-menu__item-empty .brz-mm-btn {
   display: block !important;
   opacity: 0 !important;
+  visibility: hidden;
 }
 .brz .brz-menu .brz-a {
   width: 100%;
