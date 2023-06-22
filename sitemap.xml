@@ -8,22 +8,32 @@
 
 <url>
   <loc>https://rhsu.cc/</loc>
-  <lastmod>2023-02-13T19:01:27+00:00</lastmod>
+  <lastmod>2023-06-22T20:51:22+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://rhsu.cc/simplified</loc>
-  <lastmod>2023-02-13T19:01:27+00:00</lastmod>
+  <lastmod>2023-06-22T20:51:22+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://rhsu.cc/social</loc>
-  <lastmod>2023-02-13T19:01:27+00:00</lastmod>
+  <lastmod>2023-06-22T20:51:22+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://raymond.brizy.site/404</loc>
+  <lastmod>2023-06-22T20:51:22+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.7</priority>
+</url>
+<url>
   <loc>https://rhsu.cc/.</loc>
-  <lastmod>2023-02-13T19:01:27+00:00</lastmod>
+  <lastmod>2023-06-22T20:51:22+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.64</priority>
 </url>
 
