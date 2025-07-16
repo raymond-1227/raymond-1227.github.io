@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const map = JSON.parse(fs.readFileSync(path.join(__dirname, 'url.json'), 'utf-8'));
+const map = JSON.parse(fs.readFileSync(path.join(__dirname, 'mappings.json'), 'utf-8'));
 const OUT = path.join(__dirname, '..', 'dist');
 
 Object.entries(map).forEach(([slug, dest]) => {
