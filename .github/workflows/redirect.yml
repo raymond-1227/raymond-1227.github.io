@@ -3,7 +3,7 @@ name: Build & Deploy redirecting short URLs
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
