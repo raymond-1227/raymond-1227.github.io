@@ -4,7 +4,9 @@ Just my personal website, nothing personal.
 
 ---
 
-## Website Types
+## Website Type
+
+I currently maintain the following two types of personal page:
 
 - **Landing Page**: Based on Brizy
 
