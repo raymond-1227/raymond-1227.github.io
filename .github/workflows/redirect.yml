@@ -1,4 +1,4 @@
-name: Build & Deploy redirect URLs
+name: Build & Deploy Pages
 
 on:
   push:
@@ -6,16 +6,35 @@ on:
       - master
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build-and-deploy:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: node redirects/script.js
-      - uses: peaceiris/actions-gh-pages@v4
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Generate redirect pages
+        run: node redirects/script.js
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static files
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: master
-          publish_dir: ./dist
-          exclude_assets: '.github'
-          cname: rhsu.cc
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
