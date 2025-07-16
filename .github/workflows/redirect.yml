@@ -1,24 +1,29 @@
-name: Build & Deploy redirecting short URLs
+name: Build & Deploy redirect URLs
 
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    steps:
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
 
-      - name: Check out repository
+    steps:
+      - name: Check out code
         uses: actions/checkout@v4
 
-      - name: Generate redirects
+      - name: Generate redirect pages
         run: node redirects/script.js
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: main
           publish_dir: ./dist
+          exclude_assets: '.github'
+          cname: rhsu.cc
