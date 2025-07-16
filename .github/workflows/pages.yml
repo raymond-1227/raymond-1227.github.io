@@ -28,17 +28,19 @@ jobs:
       - name: Prepare distribution folder
         run: |
           rm -rf dist
-          mkdir dist
-          cp *.html dist/
-          cp -R css dist/css
-          cp -R js  dist/js
+          mkdir -p dist
+          rsync -av \
+            --exclude='.github' \
+            --exclude='dist' \
+            --exclude='redirects' \
+            ./ dist/
 
       - name: Generate redirect pages
         run: node redirects/script.js
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        
+
       - name: Upload static files
         uses: actions/upload-pages-artifact@v3
         with:
