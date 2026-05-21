@@ -1,51 +1,53 @@
-name: Build & Deploy Pages
-
+name: Brizy Pages Optimization
 on:
   push:
     branches:
       - master
-  workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  contents: write
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  optimize:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out code
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Prepare distribution folder
-        run: |
-          rm -rf dist
-          mkdir -p dist
-          rsync -av \
-            --exclude='.github' \
-            --exclude='dist' \
-            --exclude='redirects' \
-            ./ dist/
-
-      - name: Generate redirect pages
-        run: node redirects/script.js
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload static files
-        uses: actions/upload-pages-artifact@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          path: ./dist
+          node-version: 'lts/*'
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      # Install minification packages globally
+      - name: Install Minifiers
+        run: npm install -g html-minifier terser clean-css-cli
+
+      # Replace font provider domains across all HTML and CSS files
+      - name: Replace Bunny Fonts to Google Fonts
+        run: |
+          find . -type f -name "*.html" -exec sed -i 's/fonts.bunny.net/fonts.googleapis.com/g' {} +
+          find . -type f -name "*.css" -exec sed -i 's/fonts.bunny.net/fonts.googleapis.com/g' {} +
+
+      # Minify all non-minified CSS files by stripping spaces and comments
+      - name: Optimize CSS
+        run: |
+          for f in $(find . -name "*.css" ! -name "*.min.css"); do
+            cleancss -o "$f" "$f"
+          done
+
+      # Strip formatting and comments from JS files without renaming variables or altering logic
+      - name: Optimize JS (Safe Mode)
+        run: |
+          for f in $(find . -name "*.js" ! -name "*.min.js"); do
+            terser "$f" -o "$f" --format comments=false
+          done
+
+      # Commit and push optimized changes back to the repository
+      - name: Commit & Push Optimized Files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "chore: safe auto-optimized assets & fonts"
+          git push
