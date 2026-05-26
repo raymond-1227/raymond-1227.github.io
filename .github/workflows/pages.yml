@@ -1,4 +1,4 @@
-name: Optimize Static Files for Cloudflare Pages
+name: Optimize Static Files and Deploy to Cloudflare Pages
 on:
   push:
     branches:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Replace Bunny Fonts with Google Fonts
         # Since Cloudflare seems to only support Google Fonts,
