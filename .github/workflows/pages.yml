@@ -33,6 +33,7 @@ jobs:
         run: |
           find . -type f -name "*.html" -exec perl -pi -e "s|property=\"og:image\" content=\"(?!http)([^\"]+)\"|property=\"og:image\" content=\"$MY_DOMAIN\1\"|g" {} +
           find . -type f -name "*.html" -exec perl -pi -e "s|(?:name\|property)=\"twitter:image\" content=\"(?!http)([^\"]+)\"|property=\"twitter:image\" content=\"${MY_DOMAIN}\1\"|g" {} +
+
       - name: Commit & Push Optimized Files
         run: |
           git config --global user.name "github-actions[bot]"
