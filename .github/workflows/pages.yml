@@ -1,4 +1,4 @@
-name: Replace Font Provider
+name: Optimize Static Files for Cloudflare Pages
 on:
   push:
     branches:
@@ -25,19 +25,19 @@ jobs:
           find . -type f \( -name "*.html" -o -name "*.css" \) -exec perl -pi -e "s/$OLD_FONT_DOMAIN/$NEW_FONT_DOMAIN/g" {} +
 
       - name: Fix SEO Social Preview Images
-        # Since social preview images are relative URLs, 
+        # Since social preview images are relative URLs,
         # we need to convert them to absolute URLs,
         # so they can be properly displayed when shared on social media platforms.
         env:
           MY_DOMAIN: "https://rhsu.cc/"
         run: |
           find . -type f -name "*.html" -exec perl -pi -e "s|property=\"og:image\" content=\"(?!http)([^\"]+)\"|property=\"og:image\" content=\"$MY_DOMAIN\1\"|g" {} +
-          find . -type f -name "*.html" -exec perl -pi -e "s|name=\"twitter:image\" content=\"(?!http)([^\"]+)\"|name=\"twitter:image\" content=\"$MY_DOMAIN\1\"|g" {} +
+          find . -type f -name "*.html" -exec perl -pi -e "s|(name|property)=\"twitter:image\" content=\"(?!http)([^\"]+)\"|\1=\"twitter:image\" content=\"$MY_DOMAIN\2\"|g" {} +
 
       - name: Commit & Push Optimized Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff-index --quiet HEAD || git commit -m "chore: replace font provider [skip ci]"
+          git diff-index --quiet HEAD || git commit -m "chore: optimize static files [skip ci]"
           git push
