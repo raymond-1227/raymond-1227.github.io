@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -41,3 +42,9 @@ jobs:
           git add .
           git diff-index --quiet HEAD || git commit -m "chore: optimize static files [skip ci]"
           git push
+
+      - name: Trigger Cloudflare Pages Deployment
+        # Since Cloudflare might not deploy the latest commit made by this workflow,
+        # we use a Cloudflare Deploy Hook to ensure it deploys the latest version of the code.
+        run: |
+          curl -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
