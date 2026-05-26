@@ -1,28 +1,20 @@
 # Raymond's Site
 
-Just my personal website, nothing personal.
+Just my personal website, nothing special.
 
 ---
 
-## Website Type
+## About
 
-I currently maintain the following two types of personal page:
+This website is built on top of Brizy, a no-code website builder, and hosted on Cloudflare Pages. It serves as a landing page for my personal projects and information.
 
-- **Landing Page**: Based on Brizy
-
-- **Documentation Page**: Based on Docusaurus
-
-## Version History
-
-- **v1**: Based on Jekyll Templates, based on GitHub Pages and it's only a page with useless informations. It's technically gone as I probably wiped the commit history on accident back then.
-
-- **v2**: Based on VuePress, also hosted on GitLab Pages instead due to limitations with GitHub Pages back then. This version included a lot more information compared to v1.
-
-- **v3**: Based on Brizy, simplified the v2 by moving project READMEs back to its own repository, and now it's only a single about page too.
+I don't recommend reading the code of this website, since it's fully machine-generated (excluding `minimal.html`) and not well-structured.
 
 ## Documentation-based Version
 
-To keep all informations still available from v2, I decided to make two types of personal website, one as a landing page for a summary of things, and another one for really detailed documentation. Since I was too lazy to find out what is causing reason of GitLab failing CI builds, so I made a new website based on Docusaurus instead of VuePress.
+To keep all informations still available from v2, I decided to make two types of personal website, one as a landing page for a summary of things, and another one for really detailed documentation, which includes a "Cool Stuff" section where I organize something I find interesting.
+
+Since I was too lazy to find out what is causing reason of GitLab failing CI builds, so I made a new website based on Docusaurus instead of VuePress.
 
 **Project Link**: [raymond-1227/docusaurus-website](https://github.com/raymond-1227/docusaurus-website)
 
